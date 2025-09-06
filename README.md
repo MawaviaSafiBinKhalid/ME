@@ -5,18 +5,17 @@
 ---
 
 ## 🔹 About Me  
-- Building a strong foundation in **C++ (OOP), Web Development, and UI/UX**  
+- Building a strong foundation in **C++ (OOP) and core Computer Science concepts**  
 - Passionate about **cybersecurity, game development, and creative design**  
-- Experienced in **teaching (5 years)** and **sales communication**  
+- Experienced in **teaching (5 years)** and **tele-sales communication**  
 - Currently focused on **learning, projects, and professional growth**  
 
 ---
 
 ## 🛠️ Skills  
 - **Programming:** C++ (OOP), Python (basics)  
-- **Web/UI:** HTML, CSS, UI/UX fundamentals  
-- **Creative Tools:** Canva, video editing basics  
-- **Other:** Teaching, communication, content creation  
+- **Creative Tools:** Figma, video editing basics  
+- **Other:** Teaching, tele-sales, communication, content creation  
 
 ---
 
